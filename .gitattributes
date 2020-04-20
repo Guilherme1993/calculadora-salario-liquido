@@ -1,0 +1,7 @@
+*.html linguist-language=java
+*.css linguist-language=java
+*.js linguist-language=java
+
+gradle/* linguist-vendored
+
+*.java linguist-detectable=true
